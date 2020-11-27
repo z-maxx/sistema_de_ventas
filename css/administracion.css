@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(../images/fondo2.png);
+    background-position: top center;
+     margin: 0;
+    padding: 0;
+}
+
+.boton{
+    background-color: aqua;
+    font-size: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     border: solid;
+     border-color: black;
+    
+}
+iframe{
+    overflow-x:hidden;
+overflow-y:hidden;
+}
+a{
+    color: black;
+}
+.tex{
+    color: aqua;
+}
+.tabla{
+  border: 1px solid black;
+  padding: 5px;
+  background-color: aqua;
+  border-collapse: collapse;
+  width: 70%;
+  
+}
+.tabla td {
+  border: 2px solid black;
+  padding: 8px;
+
+}
+.tabla th{
+  border: 2px solid;
+  
+  padding: 5px;
+}
+.Itexto{
+    font-size: 100%;
+    background-color:#9999FF;
+    text-align: center;
+}
+label{
+    font-size: 120%;
+    color: #9999FF;
+    text-align: center;
+}
+.fec{
+    font-size: 100%;
+    background-color:#9999FF;
+    text-align: center;
+    width: 250px;
+}
